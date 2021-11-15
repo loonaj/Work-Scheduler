@@ -5,7 +5,7 @@ Work Day Scheduler is a simple calendar app for scheduling your workday. It allo
 The page will refresh on the hour to keep the display current.
 
 ## Screenshot
-![screenshot of the website] (./assets/images/)
+![screenshot of the webiste mockup] (./assets/images/mockup.gif)
 
 ## Live link
 https://loonaj.github.io/Work-Scheduler/
