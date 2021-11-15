@@ -8,3 +8,4 @@ The page will refresh on the hour to keep the display current.
 ![screenshot of the website] (./assets/images/)
 
 ## Live link
+https://loonaj.github.io/Work-Scheduler/
